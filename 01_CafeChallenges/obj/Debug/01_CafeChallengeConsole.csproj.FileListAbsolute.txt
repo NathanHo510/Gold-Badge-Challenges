@@ -1,0 +1,10 @@
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\obj\Debug\01_CafeChallengeConsole.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\obj\Debug\01_CafeChallengeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\bin\Debug\01_CafeChallenges.exe.config
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\bin\Debug\01_CafeChallenges.exe
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\bin\Debug\01_CafeChallenges.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\bin\Debug\01_CafeChallenge_Repository.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\bin\Debug\01_CafeChallenge_Repository.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\obj\Debug\01_CafeChallengeConsole.csproj.CopyComplete
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\obj\Debug\01_CafeChallenges.exe
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenges\obj\Debug\01_CafeChallenges.pdb

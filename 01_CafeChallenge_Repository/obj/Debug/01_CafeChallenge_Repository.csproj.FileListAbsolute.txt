@@ -1,0 +1,6 @@
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenge_Repository\bin\Debug\01_CafeChallenge_Repository.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenge_Repository\bin\Debug\01_CafeChallenge_Repository.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenge_Repository\obj\Debug\01_CafeChallenge_Repository.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenge_Repository\obj\Debug\01_CafeChallenge_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenge_Repository\obj\Debug\01_CafeChallenge_Repository.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\01_CafeChallenge_Repository\obj\Debug\01_CafeChallenge_Repository.pdb

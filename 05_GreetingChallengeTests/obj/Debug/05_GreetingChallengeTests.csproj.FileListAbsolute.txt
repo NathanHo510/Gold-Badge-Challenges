@@ -1,0 +1,16 @@
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\05_GreetingChallengeTests.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\05_GreetingChallengeTests.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\obj\Debug\05_GreetingChallengeTests.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\obj\Debug\05_GreetingChallengeTests.csproj.CopyComplete
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\obj\Debug\05_GreetingChallengeTests.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\obj\Debug\05_GreetingChallengeTests.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\05_Greeting_Repository.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\bin\Debug\05_Greeting_Repository.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeTests\obj\Debug\05_GreetingChallengeTests.csprojAssemblyReference.cache

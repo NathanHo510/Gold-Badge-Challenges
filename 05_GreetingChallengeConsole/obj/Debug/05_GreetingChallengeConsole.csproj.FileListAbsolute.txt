@@ -1,0 +1,10 @@
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\bin\Debug\05_GreetingChallengeConsole.exe.config
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\bin\Debug\05_GreetingChallengeConsole.exe
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\bin\Debug\05_GreetingChallengeConsole.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\bin\Debug\05_Greeting_Repository.dll
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\bin\Debug\05_Greeting_Repository.pdb
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\obj\Debug\05_GreetingChallengeConsole.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\obj\Debug\05_GreetingChallengeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\obj\Debug\05_GreetingChallengeConsole.csproj.CopyComplete
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\obj\Debug\05_GreetingChallengeConsole.exe
+C:\Users\Nathan\source\repos\GoldBadgeChallenges\05_GreetingChallengeConsole\obj\Debug\05_GreetingChallengeConsole.pdb
